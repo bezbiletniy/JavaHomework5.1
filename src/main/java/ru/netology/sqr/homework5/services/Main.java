@@ -1,3 +1,4 @@
+package ru.netology.sqr.homework5.services;
 public class Main {
     public static void main(String[] args) {
         SQRService service = new SQRService();

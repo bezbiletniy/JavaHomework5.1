@@ -1,3 +1,4 @@
+package ru.netology.sqr.homework5.services;
 public class SQRService {
     public int Calculate(int low, int high) {
         int x = 0;

@@ -1,3 +1,4 @@
+package ru.netology.sqr.homework5.services;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
